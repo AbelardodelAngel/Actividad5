@@ -1,0 +1,12 @@
+# MLflow local (No subir base de datos ni artefactos locales)
+mlflow.db
+mlruns/
+
+# Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Colab y Sistema
+.ipynb_checkpoints
+.virtual_documents/
